@@ -1,0 +1,6 @@
+c:\users\vpratapaneni\documents\visual studio 2017\Projects\FlagsExample\FlagsExample\bin\Debug\FlagsExample.exe.config
+c:\users\vpratapaneni\documents\visual studio 2017\Projects\FlagsExample\FlagsExample\bin\Debug\FlagsExample.exe
+c:\users\vpratapaneni\documents\visual studio 2017\Projects\FlagsExample\FlagsExample\bin\Debug\FlagsExample.pdb
+c:\users\vpratapaneni\documents\visual studio 2017\Projects\FlagsExample\FlagsExample\obj\Debug\FlagsExample.csprojResolveAssemblyReference.cache
+c:\users\vpratapaneni\documents\visual studio 2017\Projects\FlagsExample\FlagsExample\obj\Debug\FlagsExample.exe
+c:\users\vpratapaneni\documents\visual studio 2017\Projects\FlagsExample\FlagsExample\obj\Debug\FlagsExample.pdb
